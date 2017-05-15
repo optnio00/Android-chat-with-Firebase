@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992659728439",
+    "firebase_url": "https://androidchat-55f85.firebaseio.com",
+    "project_id": "androidchat-55f85",
+    "storage_bucket": "androidchat-55f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992659728439:android:e6d06688e550c881",
+        "android_client_info": {
+          "package_name": "com.tricktekno.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992659728439-tj7v7f7r3n7oi6qmimrhi22epfio3ndj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tricktekno.firebaseandroid",
+            "certificate_hash": "c0af3c00f54cb7cb6c8477430e1f081399f926a7"
+          }
+        },
+        {
+          "client_id": "992659728439-19jitfkih6q7f1trgcniqlbghuuddg3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyR-qZbeT8y3wEHqCBs-nfkucz1vG9GI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992659728439-19jitfkih6q7f1trgcniqlbghuuddg3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
